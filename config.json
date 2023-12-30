@@ -1,0 +1,51 @@
+{
+	
+  	"prefix": "-",
+	
+  	"owner": "624128114800328715",
+
+	"client": {
+		"ID": "1050819106141655090"	
+	},
+
+	"secrets": {
+		"TOKEN": "",
+		"MONGO": ""
+	},
+
+	"channels": {
+		"errors_log": ""	
+	},
+
+	"handlers": {
+		"slash": {
+			"TESTING_GUILD_ID": "918611797194465280"
+		}
+	},
+
+	"music": {
+		"options": {
+			"discord_player": {
+				"ytdlOptions": {
+                	"quality": "highestaudio"
+          		}
+			},
+			"self_def": true
+		}
+	},
+
+	"emojis": {
+		"check": "<a:Success:982721882468012033>",
+		"cross": "",
+		"enabled": "<:Activated:981558799531913297>",
+		"disabled": "<:Disabled:981558844205453412>",
+		"warning": "<a:Warning:982718200661811242>",
+		"stop": "<:Stop:982717347628478484>",
+		"loading": "<a:Loading:982671934099705956>",
+		"info": "<:Info:983820263005229126>",
+		"ping": "<:Ping:981556868331745310>",
+		"javascript": "<:Javascript:983081531557965864>",
+		"coin": "🪙"
+	}
+	
+}
